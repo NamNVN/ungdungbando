@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "935010153782",
+    "project_id": "appbanhang-aa712",
+    "storage_bucket": "appbanhang-aa712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935010153782:android:79a9ada09a1f799c5aaf97",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935010153782-rmrsc7tkruodiia4dedcknflekp5dk3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmvhLrebjImdQ2GNHvwy8Hhl_VR-1MR-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935010153782-rmrsc7tkruodiia4dedcknflekp5dk3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935010153782:android:e97c4dd808377e2c5aaf97",
+        "android_client_info": {
+          "package_name": "com.manager.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935010153782-e92fu83cnt7eu6aen0n9jbbti7gujsjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manager.myapplication",
+            "certificate_hash": "19f6a793b7288144d76f0fef15d51b3e1f72df1b"
+          }
+        },
+        {
+          "client_id": "935010153782-rmrsc7tkruodiia4dedcknflekp5dk3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmvhLrebjImdQ2GNHvwy8Hhl_VR-1MR-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935010153782-rmrsc7tkruodiia4dedcknflekp5dk3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
